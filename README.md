@@ -171,12 +171,12 @@ Atuo na área de tecnologia há alguns anos e minha paixão pela programação c
   <img
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Ruan-andre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=Ruan-andre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
   />
   <img
     alt="Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-andre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-andre&theme=tokyonight&layout=compact&count_private=true&custom_title=Tecnologias&langs_count=9"
   />
 </div>
 
