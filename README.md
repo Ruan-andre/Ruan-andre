@@ -184,7 +184,7 @@ Atuo na área de tecnologia há alguns anos e minha paixão pela programação c
 <br />
 
 ## Como colaborar 🤝
-- **Reportar bugs**: Abra uma [issue](https://github.com/Ruan-andre/repo/issues) descrevendo o problema.
+- **Reportar bugs**: Abra uma **issue** descrevendo o problema.
 - **Sugerir melhorias**: Envie um **pull request** ou comente nas issues existentes.
 - **Dúvidas?** Me chame no [Discord](https://discordapp.com/users/798981432113365043)!
 
