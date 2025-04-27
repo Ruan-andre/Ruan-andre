@@ -167,7 +167,7 @@ Atuo na área de tecnologia há alguns anos e minha paixão pela programação c
 <br />
 
 ## 📊 Estatísticas
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
   <img
     alt="GitHub Stats"
     height="200"
