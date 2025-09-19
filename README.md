@@ -81,5 +81,5 @@ Atuo na área de tecnologia há alguns anos e minha paixão pela programação c
 
 ## Me encontre em outras redes 🌍
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-ruan-554854250/)
-- [Portfólio](https://a-ruan-portfolio.vercel.app/)
+- [Portfólio](https://andreuruan.dev/)
 - [Discord](https://discordapp.com/users/798981432113365043)
