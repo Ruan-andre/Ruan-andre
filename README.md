@@ -50,7 +50,8 @@ Atuo na área de tecnologia há alguns anos e minha paixão pela programação c
 <br />
 
 ## Projetos em destaque ✨
-- [Portfólio](https://a-ruan-portfolio.vercel.app/): Meu portfólio com os projetos que desenvolvi.
+- [FolderFlux](https://folderflux.com/): Software de organização de arquivos.
+- [Portfólio](https://andreruan.dev/): Meu portfólio com os projetos que desenvolvi.
 
 <br />
 
